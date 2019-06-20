@@ -2,7 +2,8 @@
 Unfortunatelly this project's commentary is fully done in polish.  
 
 ## Project Description
-This project was done in pairs. We were supposed to choose at least 3 data sets with one being at least 100 MB and show any intresting phenomena connected with it. Directories containe files that were effect of analysis done in R. They are used by Rshiny for presenting resoults.
+This project was done in pairs. We were supposed to choose at least 3 data sets with one being at least 100 MB and show any intresting phenomena connected with it. Directories containe files that were effect of analysis done in R. They are used by Rshiny for presenting resoults.  
+
 ### the resoults can be found in Presentation_final.pdf and in Rshiny web apps  
 
 
